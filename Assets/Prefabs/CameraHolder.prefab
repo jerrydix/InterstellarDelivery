@@ -66,7 +66,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 976b010d7857de74aac9edf5e0c63d60, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e57330a721c086a4a8ca123dc2a776ab, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5286,7 +5286,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 976b010d7857de74aac9edf5e0c63d60, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e57330a721c086a4a8ca123dc2a776ab, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -15107,6 +15107,7 @@ MonoBehaviour:
   _forceMultiplier: 0.5
   _force: []
   _pointer: 0
+  movement: {fileID: 0}
   _particles: {fileID: 1894620139}
 --- !u!1 &1894620139
 GameObject:
@@ -24919,7 +24920,7 @@ Transform:
   m_Children:
   - {fileID: 2283046422035226899}
   m_Father: {fileID: 0}
-  m_RootOrder: 52
+  m_RootOrder: 164
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2283046420487656714
 MonoBehaviour:
@@ -25384,7 +25385,11 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 8904447968811972288, guid: 55c2114e46d5a304bb2d593ea1e2ce4d, type: 3}
+    - {fileID: 8603541622604761643, guid: 55c2114e46d5a304bb2d593ea1e2ce4d, type: 3}
+    - {fileID: 5392398322951045289, guid: 55c2114e46d5a304bb2d593ea1e2ce4d, type: 3}
+    - {fileID: 7869873546869171050, guid: 55c2114e46d5a304bb2d593ea1e2ce4d, type: 3}
     m_AddedGameObjects:
     - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 55c2114e46d5a304bb2d593ea1e2ce4d, type: 3}
       insertIndex: -1
@@ -25464,6 +25469,8 @@ MonoBehaviour:
   dropForceUp: 0
   _func: {fileID: 1885547967}
   _col: {fileID: 4729254939711759797}
+  originalSize: {x: 0, y: 0, z: 0}
+  inHandSize: {x: 0, y: 0, z: 0}
   equipped: 1
   genPart: 0
 --- !u!1 &4669995674666823634 stripped
