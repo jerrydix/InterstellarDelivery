@@ -4796,7 +4796,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Soviet Spaceporter
+  m_text: Interstellar Delivery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
   m_sharedMaterial: {fileID: -192905051130003518, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
@@ -4885,7 +4885,7 @@ PrefabInstance:
     - target: {fileID: 3595781219179029232, guid: 38ed1f4b462c33d4c8569e1471b51cca, type: 3}
       propertyPath: audioTrack
       value: 
-      objectReference: {fileID: 8300000, guid: fdf2e96496e08fa4e8d44e4ac601ac4c, type: 3}
+      objectReference: {fileID: 8300000, guid: fac8e08e3fe1cb7478aa138239bd8846, type: 3}
     - target: {fileID: 4779846266755451158, guid: 38ed1f4b462c33d4c8569e1471b51cca, type: 3}
       propertyPath: DopplerLevel
       value: 0
@@ -17683,7 +17683,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Soviet Spaceporter
+  m_text: Interstellar Delivery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
   m_sharedMaterial: {fileID: -192905051130003518, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
@@ -17711,8 +17711,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 21
+  m_fontSizeBase: 21
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -17747,7 +17747,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: -106.59802, w: 0}
+  m_margin: {x: 0, y: 0, z: -136.44836, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -24970,7 +24970,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Soviet Spaceporter
+  m_text: Interstellar Delivery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
   m_sharedMaterial: {fileID: -192905051130003518, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
@@ -40453,7 +40453,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Soviet Spaceporter
+  m_text: Interstellar Delivery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
   m_sharedMaterial: {fileID: -192905051130003518, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
@@ -48086,7 +48086,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Soviet Spaceporter
+  m_text: Interstellar Delivery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
   m_sharedMaterial: {fileID: -192905051130003518, guid: e723ceb6432f54f52a9559aa324666ba, type: 2}
