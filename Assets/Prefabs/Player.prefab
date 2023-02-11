@@ -104,7 +104,7 @@ Transform:
   - {fileID: 2584550198311062944}
   - {fileID: 5369135986201794118}
   m_Father: {fileID: 0}
-  m_RootOrder: 44
+  m_RootOrder: 99
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &7145766092266295065
 MeshFilter:
@@ -211,11 +211,11 @@ MonoBehaviour:
   - {fileID: 8300000, guid: 3701a5fdf99882f40bc00eb9053eec92, type: 3}
   stepsSource: {fileID: 1228130801}
   tutorialClips:
-  - {fileID: 8300000, guid: ca767bc78ec717c47a4103400774349b, type: 3}
-  - {fileID: 8300000, guid: 77b55083644a77b4fb364b0ee808baa8, type: 3}
-  - {fileID: 8300000, guid: 66404723c8bc8bd4d93e272bb65ac489, type: 3}
-  - {fileID: 8300000, guid: 34d7dcadd6a470f43974c9f2c23cad7e, type: 3}
-  - {fileID: 8300000, guid: df60333ba940302429d63f6be3d23279, type: 3}
+  - {fileID: 8300000, guid: cdb12183ddec670429ad559152df9999, type: 3}
+  - {fileID: 8300000, guid: 2b50fcfffc3d46a46b458377b79b4010, type: 3}
+  - {fileID: 8300000, guid: b141a257a44ac8b47951e0495d73d4cd, type: 3}
+  - {fileID: 8300000, guid: 81629f625cf2607448a772ce3a5b1579, type: 3}
+  - {fileID: 8300000, guid: 840f7de4b9da93f479002b86355480ce, type: 3}
   tutorialSource: {fileID: 9203132825531854387}
   stepsUpper: {fileID: 500004704141054620}
   stepsLower: {fileID: 3243196636510828938}
@@ -273,6 +273,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: b074577eda217ea4a97704ed19c0c53b, type: 3}
   - {fileID: 8300000, guid: 7315819574c2f0846978b3a23f88ecda, type: 3}
   - {fileID: 8300000, guid: 1aa8beefde9fb9149a717778e07e9e5f, type: 3}
+  shooting: {fileID: 0}
 --- !u!82 &1228130801
 AudioSource:
   m_ObjectHideFlags: 0
